@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GitHub Profile Analyzer
 
 A responsive React application that surfaces GitHub profile information, high-level statistics, and recently updated repositories using the GitHub REST API. The project matches the provided portfolio brief and is ready to deploy to platforms such as Vercel.
