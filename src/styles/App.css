@@ -357,6 +357,16 @@ h1 {
   outline-color: #c7d2fe;
 }
 
+.language-select select option {
+  color: #0f172a;
+  background-color: #ffffff;
+}
+
+.app--dark .language-select select option {
+  color: #f8fafc;
+  background-color: #0b1120;
+}
+
 .history-header {
   display: flex;
   align-items: center;
