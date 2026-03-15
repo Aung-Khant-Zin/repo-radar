@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitHub Profile Analyzer
 
 A responsive React application that surfaces GitHub profile information, high-level statistics, and recently updated repositories using the GitHub REST API. The project matches the provided portfolio brief and is ready to deploy to platforms such as Vercel.
@@ -40,3 +41,7 @@ A responsive React application that surfaces GitHub profile information, high-le
 ### Environment Notes
 - No GitHub token is required for public data, but authenticated requests can be added in `src/services/githubApi.js` if you need higher rate limits.
 - The project was scaffolded manually (mirroring the Vite React template) because the remote scaffolding command is blocked in this environment.
+=======
+# github-user-analyzer
+A React app fetching GitHub user stats
+>>>>>>> 5d336039bbf026a5e5b36bf166d2f07dfb0c6d2c
